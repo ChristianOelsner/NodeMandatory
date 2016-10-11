@@ -1,0 +1,24 @@
+{
+  "name": "mandatory-assignment",
+  "version": "1.0.0",
+  "description": "First mandatory assignment, a basic website using node and express",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^2.5.2",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristianOelsner/jc.git"
+  },
+  "author": "Christian Oelsner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChristianOelsner/jc/issues"
+  },
+  "homepage": "https://github.com/ChristianOelsner/jc#readme"
+}
